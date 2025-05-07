@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm David Musau</h1>
-<h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Software Engineer & Network Engineer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dav-oss&label=Profile%20views&color=0e75b6&style=flat" alt="dav-oss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dav-oss" alt="dav-oss" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs** and refreshing Data Structures and Algorithms and Typescript
+- 🌱 I’m currently learning Network Engineering (CCNA Certification)
 
 - 💬 Ask me about **React, Tailwind, VueJs, Python, Java, SQL, Typescript, anything tech ...**
 
-- 📫 How to reach me **david.muendo.musau@gmail.com**
+- 📫 How to reach me **david.musau.debug@gmail.com**
 
-- ⚡ Fun fact **I think am funny**
+- ⚡ Fun fact **I think earth is opensource in disguise only certain people decided to make money out of it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
