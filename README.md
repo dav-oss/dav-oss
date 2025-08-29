@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Musau</h1>
 <h3 align="center">A passionate Software Engineer, Cloud Computing Associate & Network Engineer from Nairobi, Kenya</h3>
+<h3 align="center"><a href="https://dmmusau.vercel.app">Checkout my portofolio website</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dav-oss&label=Profile%20views&color=0e75b6&style=flat" alt="dav-oss" /> </p>
 
