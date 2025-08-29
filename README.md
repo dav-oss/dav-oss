@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm David Musau</h1>
-<h3 align="center">A passionate Software Engineer & Network Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Software Engineer, Cloud Computing Associate & Network Engineer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dav-oss&label=Profile%20views&color=0e75b6&style=flat" alt="dav-oss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dav-oss" alt="dav-oss" /></a> </p>
 
-- 🌱 I’m currently learning Network Engineering (CCNA Certification)
+- 🌱 KCNA (Kubernetes and Cloud Native Associate) Certified
+- 🌱 Currently learning Network Engineering (CCNA Certification)
 
 - 💬 Ask me about **React, Tailwind, VueJs, Python, Java, SQL, Typescript, anything tech ...**
 
 - 📫 How to reach me **david.musau.debug@gmail.com**
 
-- ⚡ Fun fact **I think earth is opensource in disguise only certain people decided to make money out of it**
+- ⚡ We are the iron men forging our way to ultimatum and have to learn constantly
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davylax1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davylax1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-musau-a75549200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-musau-a75549200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-musau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-musau" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
