@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dav-oss" alt="dav-oss" /></a> </p>
 
 - 🌱 KCNA (Kubernetes and Cloud Native Associate) Certified
-- 🌱 Currently learning Network Engineering (CCNA Certification)
+- 🌱 Officialy Certified Cisco Certified Network Associate (CCNA Certification)
 
 - 💬 Ask me about **React, Tailwind, VueJs, Python, Java, SQL, Typescript, anything tech ...**
 
